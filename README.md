@@ -20,9 +20,10 @@ I'm interested in how **data quality, semantics, provenance, and structure** can
 
 I'm particularly interested in applying data-centric and semantic technologies to:
 
-* 💰 Financial accounting & financial data
 * 🗺️ Geographic Information Systems (GIS) & geospatial data
-* 🤖 Generative AI & intelligent agents
+* 🎨 Creative Workflow for writing, picture and motion pictures. 
+* 💰 Financial accounting & financial data
+
 
 ### 🎨 Other Interests
 

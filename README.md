@@ -1,14 +1,12 @@
 # Hi, I'm Zhanbo Fang 👋
 
-I'm a MSc student in Data Science at **Universidad Politécnica de Madrid (UPM)**. My current research focuses on building and managing **structured and multimodal world knowledge for Generative AI**, with particular interests in:
+I'm a MSc student in Data Science at **Universidad Politécnica de Madrid (UPM)**. My current research focuses on building and managing **structured and world knowledge for Generative AI**, with particular interests in:
 
 * 🧠 Data-Centric AI & Generative AI
-* 🔗 Knowledge Graphs, Linked Data & RDF
-* 🧩 Ontologies & Semantic Web
-* 🔎 Retrieval-Augmented Generation (RAG)
+* 🔗 Knowledge Graphs, Graph Database, Multimodal Learning & Data Management
+* 🧩 KG Embedding, Graph Transformer
+* 🔎 Information Retrieval
 * 🤖 AI Agents & Knowledge-Driven Systems
-
-I'm interested in how **data quality, semantics, provenance, and structure** can improve the development and use of AI systems, as well as how these technologies can be applied to real-world domains such as **financial accounting and Geographic Information Systems (GIS)**.
 
 ### 🔬 Current Projects
 

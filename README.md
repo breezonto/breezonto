@@ -23,9 +23,12 @@ I'm particularly interested in applying data-centric and semantic technologies t
 
 ### 🎨 Other Interests
 
-I also have a background and work experience in **computer graphics**, and remain interested in graphics, visualization, and the intersection between structured data, AI, and visual computing.
+I also have a background and professional experience in **Computer Graphics**, and remain interested in graphics, visualization, and the intersection between knowledge representation and visual computing.· I enjoy following the latest ideas and innovations presented at [SIGGRAPH](https://kesen.realtimerendering.com/). I hope to contribute to bringing us closer to the vision of a true Digital Twin, bridging two ecosystems: knowledge-driven modeling and simulation, and immersive 3D visualization and HCI.
 
 ### 🛠️ Technologies
 `Python` · `C/C++` · `PostgreSQL` · `Redis` · `Typescript/Javascript` · `FastAPI` · `Vue.js` · `FastAPI` · `LLMs` · `Knowledge Graph` 
+
+Other bonus:
+`Unreal` · `GLSL/HLSL` · `OpenGL/Vulkan`
 
 📫 Feel free to explore my repositories or get in touch!

@@ -28,7 +28,7 @@ I also have a background and professional experience in **Computer Graphics**, a
 ### 🛠️ Technologies
 `Python` · `C/C++` · `PostgreSQL` · `Redis` · `Typescript/Javascript` · `FastAPI` · `Vue.js` · `FastAPI` · `LLMs` · `Knowledge Graph` 
 
-Other bonus:
+Other skills:
 `Unreal` · `GLSL/HLSL` · `OpenGL/Vulkan`
 
 📫 Feel free to explore my repositories or get in touch!
